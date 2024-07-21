@@ -1,0 +1,45 @@
+.bground{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(244, 248, 252);
+    border-radius: 10px;
+    margin-left: 600px;
+}
+.c{
+    width: 100%;
+    height:60%;
+}
+h1{
+    margin-bottom: 50px;
+}
+h2{
+    font-size: 20px;
+    height:20px;
+}
+p{
+    font-size: 10px;
+}
+h3{
+    font-size: 15px ;
+    color:aqua;
+}
+.q{
+    font-size: 14px;
+    text-decoration: line-through;
+    margin-bottom: 2px;
+}
+h4{
+    
+}
+.t{
+    background-color: chocolate;
+    color:aliceblue;
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 100px;
+}
+.t:hover {
+    background-color: aqua;
+}
