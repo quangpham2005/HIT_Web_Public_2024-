@@ -1,0 +1,23 @@
+
+.input {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(246, 171, 74);
+}
+.H, .T, .so4 {
+    display: flex;
+}
+.row2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
